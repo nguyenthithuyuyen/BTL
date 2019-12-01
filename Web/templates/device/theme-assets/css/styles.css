@@ -1,0 +1,74 @@
+
+input.speed1{
+      background-color: #898383;
+      box-sizing: border-box;
+      padding: 5px 15px;
+      margin: 5px;
+      border: solid 0px;
+      font-size: 15px;
+      font-weight: bold;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    input.speed1:hover{
+      background-color: #3597cf;
+    }
+    input.speed1:focus{
+      background-color: #3597cf;
+    }
+input.speed2{
+      background-color: #898383;
+      box-sizing: border-box;
+      padding: 5px 15px;
+      margin: 5px;
+      border: solid 0px;
+      font-size: 15px;
+      font-weight: bold;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    input.speed2:hover{
+      background-color: #00ede4;
+    }
+    input.speed2:focus{
+      background-color: #00ede4;
+    }
+input.speed3{
+      background-color: #898383;
+      box-sizing: border-box;
+      padding: 5px 15px;
+      margin: 5px;
+      border: solid 0px;
+      font-size: 15px;
+      font-weight: bold;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    input.speed3:hover{
+      background-color: #8bf695;
+    }
+    input.speed3:focus{
+      background-color: #8bf695;
+    }
+
+input.speed4{
+      background-color: #898383;
+      box-sizing: border-box;
+      padding: 5px 15px;
+      margin: 5px;
+      border: solid 0px;
+      font-size: 15px;
+      font-weight: bold;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    input.speed4:hover{
+      background-color: #12ce00;
+    }
+    input.speed4:focus{
+      background-color: #12ce00;
+    }
+{
+  background-color: red;
+  overflow: hidden;
+}
